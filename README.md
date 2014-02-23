@@ -15,7 +15,9 @@ If you want to run the jar file you must use the 32bit JVM.
 
 
 Jar file: a runnable Java application which can read the input file and display the file content in the left textbox. 
-After player clicks the "Go" button, the search will be displayed in right textbox area.
+After player clicks the "Go" button, the search will be displayed in right textbox area. 
+
+**Important: before you run the application the dependent libs are needed, download the jar file with folder "SuperWorSearch_lib" together!!!
 
 
 
