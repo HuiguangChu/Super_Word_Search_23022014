@@ -1,10 +1,10 @@
 Super_Word_Search_23022014
 ==========================
-@author Huiguang Chu;
+@author Huiguang Chu
 
-@date 23.02.2014;
+@date 23.02.2014
 
-@place Gjøvik,Norway;
+@place Gjøvik,Norway
 
 
 Developemnt  and debugging environment: Ecplise juno(4.2); Windowbuilder eclipse plugin(used for GUI design);
